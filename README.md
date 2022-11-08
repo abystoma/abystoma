@@ -1,13 +1,10 @@
-<p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abystoma&theme=outrun&count_private=true&show_icons=true"/>
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abystoma&layout=compact&theme=outrun&count_private=true" />
-    </td>
-  </tr>
-</table> 
-</p>
+### 👋 Hi there, nice to meet you. I'm Zayed Humayun. Welcome to my GitHub!
+[![https://badgen.net/twitter/follow/abyst0ma](https://badgen.net/twitter/follow/abyst0ma)](https://twitter.com/abyst0ma) 
+
+### ⚡ Quick Facts
+- Student, developer, and designer based in Bangladesh.
+- Technical author at JetBrains academy (writing topics regarding DevOps)
+
+### 💌 Contact me
+[Twitter](https://twitter.com/abyst0ma) | [Email](mailto:zayedhumayun@gmail.com)
 
